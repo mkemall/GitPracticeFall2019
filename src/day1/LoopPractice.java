@@ -7,6 +7,7 @@ public class LoopPractice {
            // some random code
             System.out.println("Counter : " + i);
             System.out.println("********");
+            System.out.println("Git is Fun :) ");
         }
 
     }
